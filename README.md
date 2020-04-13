@@ -10,6 +10,9 @@ This training data contains thousands of images of humpback whale flukes. Indivi
 File descriptions
 
 train.zip - a folder containing the training images
+
 train.csv - maps the training Image to the appropriate whale Id. Whales that are not predicted to have a label identified in the training data should be labeled as new_whale.
+
 test.zip - a folder containing the test images to predict the whale Id
+
 sample_submission.csv - a sample submission file in the correct format
